@@ -1,0 +1,16 @@
+# SQL-PROJECT
+
+CREATE TABLE
+INSERT INTO
+SELECT, WHERE, AND & OR
+IN, NOT IN, IS NULL, BETWEEN
+ORDER BY, LIMIT, DISTINCT and Renaming columns
+EXTRACT
+UPPER, LOWER, LENGTH, TRIM
+Concatenation, Boolean expressions and Wildcards
+SUBSTRING, POSITION, COALESCE
+MIN, MAX, AVG, SUM & COUNT
+GROUP BY & HAVING
+CASE (with GROUP BY and for transposing data)
+JOIN & UNION
+Subqueries
